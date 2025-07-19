@@ -72,7 +72,7 @@ Assets/
 ## 🚀 Credits
 
 * 👨‍💻 Developed by [Muhammad Ehzaz Khan](https://github.com/MuhammadEhzazKhan)
-*     LinkedIn [Muhammad Ehzaz Khan](www.linkedin.com/in/ehzaz-21a95a284)
+*     LinkedIn [Muhammad Ehzaz Khan](https://www.linkedin.com/in/ehzaz-21a95a284)
 * 🎨 UI designed in Unity UI Toolkit
 
 ---
