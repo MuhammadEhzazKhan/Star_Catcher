@@ -63,16 +63,10 @@ Assets/
 
 ---
 
-## 📷 Screenshots&#x20;
-
-> will add some gameplay screenshots here later.
-
----
-
 ## 🚀 Credits
 
 * 👨‍💻 Developed by [Muhammad Ehzaz Khan](https://github.com/MuhammadEhzazKhan)
-*     [LinkedIn](https://www.linkedin.com/in/ehzaz-21a95a284)
+* 🔗 [LinkedIn](https://www.linkedin.com/in/ehzaz-21a95a284)
 * 🎨 UI designed in Unity UI Toolkit
 
 ---
